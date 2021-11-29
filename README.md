@@ -26,3 +26,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ![img1](/src/assets/Tela1.png)
 ![img2](/src/assets/Tela2.png)
 ![img3](/src/assets/Tela3.png)
+![img4](/src/assets/af_2_1.png)
+![img5](/src/assets/af_2_2.png)
+![img6](/src/assets/af_2_3.png)
