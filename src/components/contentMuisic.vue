@@ -8,18 +8,8 @@
       height="200px"
       src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
     >
-      <v-card-title>favorite muscles- Brazil</v-card-title>
+      <v-card-title>{{cardInfo}}</v-card-title>
     </v-img>
-
-    <v-card-subtitle class="pb-0">
-      Number 1
-    </v-card-subtitle>
-
-    <v-card-text class="text--primary">
-      <div>Sertanejo</div>
-
-    </v-card-text>
-
     <v-card-actions>
       <v-btn
         color="orange"
@@ -34,10 +24,12 @@
       >
         ADD        
       </v-btn>
+      <v-btn>{{cardid}}</v-btn>
     </v-card-actions>
   </v-card>
 </template>
 <script>
   export default {
+    props:['cardid', 'cardInfo']
   }
 </script>
