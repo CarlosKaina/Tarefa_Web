@@ -22,6 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Carlos Kaina de Oliveira Quirino Ramalho
 #AF_1
 ![img1](/src/assets/Tela1.png)
 ![img2](/src/assets/Tela2.png)
